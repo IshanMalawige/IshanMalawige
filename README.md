@@ -33,14 +33,7 @@
 
 ---
 
-<p align="center">
-  <a href="https://twitter.com/" target="blank">
 
-  </a>
-</p>
-
-
----
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
@@ -55,9 +48,6 @@
   </a>
   <a href="https://www.youtube.com/c/ishanmalawige" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a>
-      <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
