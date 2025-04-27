@@ -14,13 +14,22 @@
 
 
 ---
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-### 🚀 About Me
-- 🔭 I’m currently working on [Safari Booking System](https://github.com/IshanMalawige/Safari_Booking.git)
-- 🌱 I’m currently learning **React, Python, Linux**
-- 💬 Ask me about **React, Python**
-- 📫 How to reach me: **ishansthsr@gmail.com**
-- ⚡ Fun fact: **Call me Izn!**
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+
+<br><br>
+
+- :school: I am a `Fullstack Developer` from `Sri Lanka`.
+- :technologist: I love building creative and scalable `Web Applications`.
+- :computer: I am passionate about working with `React`, `Python`, and `Linux`.
+- :student: I’m currently learning advanced `Fullstack Development` techniques.
+- :nerd_face: Always `learning new technologies and frameworks`.
+- :thinking: I’m currently open to exciting `freelance projects` and `job opportunities`.
+- :email: You can reach me at **ishansthsr@gmail.com**.
+- :boom: Check out my latest project [Safari Booking System](https://github.com/IshanMalawige/Safari_Booking.git).
+
+<br>
 
 ---
 
