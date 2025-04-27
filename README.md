@@ -37,13 +37,13 @@
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/ishan-malawige" target="blank">
+  <a href="https://linkedin.com/in/ishan-malawige](https://www.linkedin.com/in/ishan-malawige-a71275265" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/ishanmalawige" target="blank">
+  <a href="https://web.facebook.com/ishansmalawige" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/ishanmalawige" target="blank">
+  <a href="https://www.instagram.com/mr._i_s_h_a_n_/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/c/ishanmalawige" target="blank">
