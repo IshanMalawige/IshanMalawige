@@ -23,7 +23,7 @@
 - :school: I am a `Fullstack Developer` from `Sri Lanka`.
 - :technologist: I love building creative and scalable `Web Applications`.
 - :computer: I am passionate about working with `React`, `Python`, and `Linux`.
-- :student: I’m currently learning advanced `Fullstack Development` techniques and Networking Tools And Techniques.
+- :student: I’m currently learning advanced `Fullstack Development` techniques and Networking Tools And Concepts.
 - :nerd_face: Always `learning new technologies and frameworks`.
 - :thinking: I’m currently open to exciting `freelance projects` and `job opportunities`.
 - :email: You can reach me at **ishansthsr@gmail.com**.
