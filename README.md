@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ishan Malawige</h1>
-<h3 align="center">🚀 A Passionate Fullstack Developer from Sri Lanka</h3>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technolog</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishanmalawige&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -23,7 +23,7 @@
 - :school: I am a `Fullstack Developer` from `Sri Lanka`.
 - :technologist: I love building creative and scalable `Web Applications`.
 - :computer: I am passionate about working with `React`, `Python`, and `Linux`.
-- :student: I’m currently learning advanced `Fullstack Development` techniques.
+- :student: I’m currently learning advanced `Fullstack Development` techniques and Networking Tools And Techniques.
 - :nerd_face: Always `learning new technologies and frameworks`.
 - :thinking: I’m currently open to exciting `freelance projects` and `job opportunities`.
 - :email: You can reach me at **ishansthsr@gmail.com**.
