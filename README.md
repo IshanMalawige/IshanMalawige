@@ -11,11 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=ishanmalawige&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ishanmalawige&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
+
 
 ---
 
@@ -54,6 +50,11 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ishanmalawige&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
