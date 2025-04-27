@@ -1,5 +1,11 @@
+<p align="center">
+  <picture align="center">
+    <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
+  </picture>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ishan Malawige</h1>
-<h3 align="center">A Passionate Fullstack Developer from Sri Lanka</h3>
+<h3 align="center">🚀 A Passionate Fullstack Developer from Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishanmalawige&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -11,12 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -25,6 +25,15 @@
 - 💬 Ask me about **React, Python**
 - 📫 How to reach me: **ishansthsr@gmail.com**
 - ⚡ Fun fact: **Call me Izn!**
+
+---
+
+<p align="center">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
+
 
 ---
 
