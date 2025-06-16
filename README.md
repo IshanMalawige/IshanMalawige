@@ -26,7 +26,7 @@
 - :student: I’m currently learning advanced `Fullstack Development` techniques and Networking Tools And Concepts.
 - :nerd_face: Always `learning new technologies and frameworks`.
 - :thinking: I’m currently open to exciting `freelance projects` and `job opportunities`.
-- :email: You can reach me at **ishansthsr@gmail.com**.
+- :email: You can reach me at **[ishansthsr@gmail.com](https://portfolio-hqyx91p7f-ishan-malawiges-projects.vercel.app)**.
 - :boom: Check out my latest project [Safari Booking System](https://github.com/IshanMalawige/Safari_Booking.git).
 
 <br>
