@@ -20,14 +20,14 @@
 
 <br><br>
 
-- :school: I am a `Fullstack Developer` from `Sri Lanka`.
-- :technologist: I love building creative and scalable `Web Applications`.
-- :computer: I am passionate about working with `React`, `Python`, and `Linux`.
-- :student: I’m currently learning advanced `Fullstack Development` techniques and Networking Tools And Concepts.
+- :school: I am a `Network Engineer` from `Sri Lanka`.
+- :technologist: I love building creative and scalable `Networks Topologies`.
+- :computer: I am passionate about working with `EVE-NG`, `Wireshark`, and `Hyper-v`.
+- :student: I’m currently learning advanced `Networking` techniques and Networking Tools And Concepts.
 - :nerd_face: Always `learning new technologies and frameworks`.
 - :thinking: I’m currently open to exciting `freelance projects` and `job opportunities`.
 - :email: You can reach me at **[ishansthsr@gmail.com](https://portfolio-hqyx91p7f-ishan-malawiges-projects.vercel.app)**.
-- :boom: Check out my latest project [Safari Booking System](https://github.com/IshanMalawige/Safari_Booking.git).
+- :boom: Check out my latest project [Enterprise Level Network Design And Configuration With Multivendor Security Devices](https://github.com/IshanMalawige/Safari_Booking.git).
 
 <br>
 
