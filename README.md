@@ -26,7 +26,7 @@
 - :student: I’m currently learning advanced `Networking` techniques and Networking Tools And Concepts.
 - :nerd_face: Always `learning new technologies and frameworks`.
 - :thinking: I’m currently open to exciting `freelance projects` and `job opportunities`.
-- :email: You can reach me at **[ishansthsr@gmail.com](https://portfolio-hqyx91p7f-ishan-malawiges-projects.vercel.app)**.
+- :email: You can reach me at **[ishansthsr@gmail.com]([https://ishanmalawige.vercel.app/)**.
 - :boom: Check out my latest project [Enterprise Level Network Design And Configuration With Multivendor Security Devices](https://github.com/IshanMalawige/Safari_Booking.git).
 
 <br>
